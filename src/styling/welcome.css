@@ -1,0 +1,5 @@
+.welcome-banner {
+    background-image: linear-gradient(to bottom right, red, orange, yellow);
+    height: 25vh;
+    text-align: center;
+}
